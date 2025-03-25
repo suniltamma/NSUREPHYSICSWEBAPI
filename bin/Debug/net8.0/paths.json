@@ -1,0 +1,8 @@
+﻿// NSurePhysicsWebAPI/paths.json
+{
+    "Paths": {
+        "SiteContentImages": "sitecontent",
+        "Pdfs": "pdfs",
+        "VideoFiles": "videos"
+    }
+}
